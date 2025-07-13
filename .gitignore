@@ -1,5 +1,4 @@
 /.venv
-/aillama.py
 /docloader.py
 /Laser_Validation_after_wl_adjustment__20250603_114304.csv
 /Laser_Validation_after_wl_adjustment__20250603_121602.csv
@@ -26,9 +25,9 @@
 /Laser_Validation_final__20250616_154845.csv
 /Laser_Validation_final__20250616_161253.csv
 /Laser_Validation__20250603_113313.csv
-/llama_query_csv.py
-/pdf_rag_demo.py
-/plot_csv.py
+
+
+
 /power_log.xlsx
 /ThorlabsPM100-1.2.2.tar.gz
 /~$power_log.xlsx
